@@ -77,8 +77,7 @@ button {
 }
 
 /* Heading */
-.block-title,
-.add-item__lable {
+.block-title {
    color: #333;
    font-weight: 700;
    font-size: 15px;
